@@ -26,6 +26,7 @@ class Shoe(models.Model):
         ('VANS KNU', 'VANS KNU'),
         ('ADDIDAS SAMBA', 'ADDIDAS SAMBA'),
         ('NB 530', 'NB 530'),
+        ('NB 1000', 'NB 1000'),
         ('NB 740', 'NB 740'),
         ('NB 760', 'NB 760'),
         ('NB 1906R', 'NB 1906R'),
@@ -38,8 +39,12 @@ class Shoe(models.Model):
         ('PUMA FENTY', 'PUMA FENTY'),
         ('PUMA SOFT-FOAM', 'PUMA SOFT-FOAM'),
         ('PUMA SUEDE', 'PUMA SUEDE'),
-        ('CONVERSE LEATHER', 'CONVERSE LEATHER'),
-       
+        ('NIKE FASTAGE', 'NIKE FASTAGE'),
+        ('TRAVIS SCOTT J1 LOW CUT', 'TRAVIS SCOTT J1 LOW CUT'),
+        ('NIKE WORKOUT', 'NIKE WORKOUT'),
+        ('DR MARTEWS LOW CUT', 'DR MARTEWS LOW CUT'),
+        ('NIKE VOMERO 5', 'NIKE VOMERO 5'),
+            
        
         
     ]
