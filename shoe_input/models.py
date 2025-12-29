@@ -43,8 +43,7 @@ class Shoe(models.Model):
         ('TRAVIS SCOTT J1 LOW CUT', 'TRAVIS SCOTT J1 LOW CUT'),
         ('NIKE WORKOUT', 'NIKE WORKOUT'),
         ('DR MARTEWS LOW CUT', 'DR MARTEWS LOW CUT'),
-        ('NIKE VOMERO 5', 'NIKE VOMERO 5'),
-            
+        ('NIKE VOMERO 5', 'NIKE VOMERO 5'),           
        
         
     ]
